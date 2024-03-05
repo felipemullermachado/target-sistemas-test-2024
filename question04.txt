@@ -1,0 +1,4 @@
+Acendo o primeiro interruptor e desligo o mesmo após 20 minutos. Em seguida, ligo o segundo interruptor e deixo ligado.
+Vou então à sala onde se encontram as lâmpadas. Ao chegar, caso a lâmpada esteja acesa, esta é acionada pelo segundo interruptor.
+Caso esteja desligada e fria, esta é acionada pelo terceiro interruptor.
+Caso esteja desligada e quente, esta é acionada pelo primeiro interruptor.
